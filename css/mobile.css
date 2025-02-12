@@ -1,0 +1,39 @@
+@media (max-width: 1199px) {
+    
+    .socials,
+    .mail {
+        display: none;
+    }
+
+    .padd-big {
+        padding-left: 110px;
+        padding-right: 110px;
+    }
+
+}
+
+@media (max-width: 991px){
+
+    .about .about-info {
+        flex-direction: column;
+    }
+
+    .work-info-box {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .work-info-boxes-topside {
+        gap: 60%;
+    }
+
+    .work-info-boxes-languages {
+        text-align: center;
+        justify-content: center;
+    }
+
+}
+
+@media (max-width: 767px){
+    
+}

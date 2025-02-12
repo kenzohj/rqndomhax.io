@@ -1,6 +1,6 @@
 # ⛏️ Portfolio Project (2022)
 
-![Home page preview](https://github.com/HysideDev/ARCHIVE-rqndomhax.io/blob/main/img/home-preview.png "📷")
+![Home page preview](https://github.com/KenzoHJ/rqndomhax.io/blob/main/img/home-preview.png "📷")
 
 **🇫🇷 Français | [🇬🇧 English below ⬇️](#-english-version-)**  
 
